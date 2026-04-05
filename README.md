@@ -1,6 +1,13 @@
-# Auto-PPT Agent (MCP + Hugging Face)
+## 🎥 Project Demo
 
-A production-ready AI agent that generates complete, themed PowerPoint presentations based on a single topic input using the **Model Context Protocol (MCP)** and **Hugging Face Transformers**.
+Click below to watch the demo video:
+
+👉 [Watch Demo Video](
+https://drive.google.com/file/d/15smW-8dZD2N7rB95dtLpKWvwkVteuQNE/view?usp=sharing)
+
+# Auto-PPT Agent (MCP)
+
+A production-ready AI agent that generates complete, themed PowerPoint presentations based on a single topic input using the **Model Context Protocol (MCP)** .
 
 The agent operates in an autonomous loop: it plans your slide titles, searches for real factual data from the web, and delegates the PowerPoint rendering and formatting to dedicated MCP servers.
 
