@@ -1,0 +1,9 @@
+mcp
+python-pptx
+transformers
+torch
+sentencepiece
+asyncio
+python-dotenv
+duckduckgo-search
+pydantic

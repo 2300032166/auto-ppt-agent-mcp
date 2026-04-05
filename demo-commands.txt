@@ -1,0 +1,112 @@
+Topic 1: Machine Learning
+Slide 1: Introduction to Machine Learning
+[
+  "Machine learning enables systems to learn automatically from data without explicit programming",
+  "It focuses on building algorithms that improve performance over time",
+  "Uses statistical techniques to identify patterns and relationships in data",
+  "Plays a key role in modern artificial intelligence systems",
+  "Widely used across industries for automation and prediction tasks"
+]
+
+Slide 2: Types of Machine Learning
+[
+  "Supervised learning uses labeled data to train models for prediction tasks",
+  "Unsupervised learning discovers hidden patterns in unlabeled datasets",
+  "Reinforcement learning trains models using rewards and penalties",
+  "Semi-supervised learning combines labeled and unlabeled data",
+  "Each type is used based on the nature of the problem"
+]
+
+Slide 3: Applications of Machine Learning
+[
+  "Used in recommendation systems like Netflix and Amazon for personalization",
+  "Helps detect fraudulent transactions in banking and financial systems",
+  "Applied in image and speech recognition technologies",
+  "Supports predictive analytics for business decision-making",
+  "Used in healthcare to predict diseases and improve diagnosis",
+  "Enables automation in industries using intelligent systems"
+]
+
+
+🎯 🟣 Topic 2: Cybersecurity
+Slide 1: Introduction to Cybersecurity
+[
+  "Cybersecurity protects systems, networks, and data from digital attacks",
+  "Ensures confidentiality, integrity, and availability of information",
+  "Plays a crucial role in protecting sensitive data online",
+  "Prevents unauthorized access and data breaches",
+  "Essential for individuals, organizations, and governments"
+]
+
+Slide 2: Common Cyber Threats
+[
+  "Malware is malicious software designed to damage or steal data",
+  "Phishing attacks trick users into revealing personal information",
+  "Ransomware locks data and demands payment for access",
+  "Denial-of-service attacks disrupt system availability",
+  "Insider threats come from authorized users misusing access"
+]
+
+Slide 3: Cybersecurity Best Practices
+[
+  "Use strong and unique passwords to secure accounts and systems",
+  "Enable multi-factor authentication for enhanced security",
+  "Regularly update software to fix security vulnerabilities",
+  "Avoid clicking on suspicious links or unknown attachments",
+  "Use antivirus and firewall protection for threat prevention",
+  "Backup important data regularly to prevent data loss"
+]
+
+
+
+🎯 🟢 Topic 3: Cloud Computing
+Slide 1: Introduction to Cloud Computing
+[
+  "Cloud computing delivers computing services over the internet",
+  "Eliminates the need for physical infrastructure and hardware",
+  "Provides scalable and flexible resources on demand",
+  "Allows remote access to data and applications",
+  "Widely used for storage, computing, and networking"
+]
+
+Slide 2: Types of Cloud Services
+[
+  "Infrastructure as a Service provides virtual computing resources",
+  "Platform as a Service offers tools for application development",
+  "Software as a Service delivers software over the internet",
+  "Each model serves different user and business requirements",
+  "Helps reduce complexity in managing IT infrastructure"
+]
+
+
+Slide 3: Benefits of Cloud Computing
+[
+  "Reduces hardware and maintenance costs for organizations",
+  "Provides scalability based on changing business needs",
+  "Enables access to data and applications from anywhere",
+  "Improves collaboration among teams in real time",
+  "Ensures data backup and disaster recovery",
+  "Offers flexibility and efficiency in operations"
+]
+
+
+
+
+
+
+
+AUTO-PPT-AGENT
+1. AI (General + default theme auto-detect)
+	python run_agent.py "Artificial Intelligence in Modern World" --slides 5 --output ai_general.pptx
+
+2. Healthcare + Dark Theme (good visual demo)
+	python run_agent.py "AI in Healthcare Diagnosis" --slides 6 --theme dark --output healthcare_dark.pptx
+	
+3. Science Topic + Academic Theme
+	python run_agent.py "Quantum Computing Basics" --slides 5 --theme academic --output quantum_academic.pptx
+
+4. Business + Creative Theme
+	python run_agent.py "Digital Marketing Trends 2026" --slides 6 --theme creative --output marketing_creative.pptx
+
+5. Tech + Minimal Theme (clean PPT demo)
+	python run_agent.py "Machine Learning Algorithms Overview" --slides 5 --theme minimal --output ml_minimal.pp
